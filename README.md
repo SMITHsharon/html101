@@ -5,13 +5,13 @@ This is a simple *blog* coded in class as a means to demonstrate basic `html` ta
 
 
 #### Class Demo Blog Screen 1
-![Class Demo Blog Screen 1](...)
+![Class Demo Blog Screen 1](https://raw.githubusercontent.com/SMITHsharon/html101/screens/screens/Class%20Demo%20Blog%20Screen%201.png)
 
 #### Class Demo Blog Screen 2 (gifs)
-![Class Demo Blog Screen 2 (gifs)](...)
+![Class Demo Blog Screen 2 (gifs)](https://raw.githubusercontent.com/SMITHsharon/html101/screens/screens/Class%20Demo%20Blog%20Screen%202.png)
 
 #### Class Demo Blog Screen 3 (basic form elements)
-![Class Demo Blog Screen 3 (basic form elements)](...)
+![Class Demo Blog Screen 3 (basic form elements)](https://raw.githubusercontent.com/SMITHsharon/html101/screens/screens/Class%20Demo%20Blog%20Screen%203.png)
 
 
 ### Project Specs
